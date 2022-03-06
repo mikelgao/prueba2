@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,PPV 1 DAZN 1 (TV)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/66917
+#EXTINF:-1,PPV 1 DAZN 2 (TV)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/66919
+#EXTINF:-1,PPV 1 DAZN 3 (TV)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/115885
+#EXTINF:-1,PPV 1 DAZN 4 (TV)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/115984
+#EXTINF:-1,PPV 1 DAZN Formula 1 (TV)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/115985
+#EXTINF:-1,PPV 2 DAZN 1 (M)(720)
+http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/66920
 #EXTINF:-1,ESP - #Vamos (TV)(1080)
 http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/117130
 #EXTINF:-1,ESP - #Vamos (TV)(720)
